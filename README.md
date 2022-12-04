@@ -19,7 +19,7 @@ deliverables: '1 HTML file, 1 CSS file, 1 JS file'
 
 Create the interaction shown in the linked video.
 
-- [**Watch this video to see how it interacts.**](https://videos.learntheweb.courses/playlists/web-dev-js/circle-colourer.mp4)
+- [**Watch this video to see how it interacts.**](https://video-assets.learntheweb.courses/web-dev-js/circle-colourer.mp4)
 
 ---
 
@@ -36,4 +36,4 @@ Drop this folder into your Markbot application. Make sure to fix all the errors.
 1. Allow the user to add a new ball to the screen by clicking a button. Changing the colour will now affect that ball.
 2. Allow the user to click on any ball, changing the focus, therefore the colour changes the focused ball.
 
-[**Watch this video to see how it interacts.**](https://videos.learntheweb.courses/playlists/web-dev-js/circle-colourer-bonus.mp4)
+[**Watch this video to see how it interacts.**](https://video-assets.learntheweb.courses/web-dev-js/circle-colourer-bonus.mp4)
